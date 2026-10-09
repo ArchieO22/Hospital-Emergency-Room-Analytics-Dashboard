@@ -24,28 +24,30 @@ A Power BI project analyzing Emergency Room performance, patient demographics, o
 📊 Dashboards Included
 
 1. Monthly View
-  Month‑by‑month analysis of:
+   
+   Month‑by‑month analysis of:
 
-  Patient count
+   Patient count
 
-  Average wait time
+   Average wait time
 
-  Satisfaction score
+   Satisfaction score
 
-  Admission status
+   Admission status
 
-  Age group distribution
+   Age group distribution
 
-  Gender & race demographics
+   Gender & race demographics
 
-  Patients seen within 30 minutes
+   Patients seen within 30 minutes
 
-  Day & hour volume heatmap
+   Day & hour volume heatmap
 
-  Department referrals
+   Department referrals
 
 2. Consolidated View
-Aggregated insights across a custom date range:
+
+   Aggregated insights across a custom date range:
 
    Total patients
 
@@ -59,7 +61,7 @@ Aggregated insights across a custom date range:
 
    Demographic breakdown
 
-Peak days & hours
+   Peak days & hours
 
 3. Patient Details
    
@@ -81,79 +83,79 @@ Peak days & hours
 
    Referral department
 
-Admission status
+   Admission status
 
 4. Key Takeaways
    
-  Executive summary highlighting:
+   Executive summary highlighting:
 
-  Operational bottlenecks
+   Operational bottlenecks
 
-  Peak load periods
+   Peak load periods
 
-  Referral hotspots
+   Referral hotspots
 
-  Demographic insights
+   Demographic insights
 
-  Admission trends
+   Admission trends
 
-  Recommendations for optimization
+   Recommendations for optimization
 
 🛠️ Tech Stack
 
-  Power BI Desktop
+   Power BI Desktop
 
-  Power Query (Data Cleaning & Quality Checks)
+   Power Query (Data Cleaning & Quality Checks)
 
-  DAX (Measures & Calculations)
+   DAX (Measures & Calculations)
 
-  Excel / CSV (Source Data)
+   Excel / CSV (Source Data)
 
 🔧 Project Workflow
-Requirement Gathering
 
-   Data Walkthrough
+    Requirement Gathering
 
-   Data Connection
+    Data Walkthrough
 
-   Data Cleaning & Quality Checks
+    Data Connection
 
-   Data Modeling
+    Data Cleaning & Quality Checks
 
-   DAX Calculations
+    Data Modeling
 
-   Dashboard Layout & Formatting
+    DAX Calculations
 
-   Visual Development
+    Dashboard Layout & Formatting
 
-   Insights Generation
+    Visual Development
 
-📁 Dataset Fields
-(From Data Terminology document)
+    Insights Generation
 
-  Patient ID
+📁 Dataset Fields (From Data Terminology document)
 
-  Admission Date
+   Patient ID
 
-  First Initial
+   Admission Date
 
-  Last Name
+   First Initial
 
-  Gender
+   Last Name
 
-  Age
+   Gender
 
-  Race
+   Age
 
-  Department Referral
+   Race
 
-  Admission Flag
+   Department Referral
 
-  Satisfaction Score
+   Admission Flag
 
-  Wait Time
+   Satisfaction Score
 
-Case Manager
+   Wait Time
+
+   Case Manager
 
 📈 Key Insights:
 
@@ -171,15 +173,15 @@ Case Manager
 
 📦 Repository Contents:
 
-    Power BI .pbix file
+   Power BI .pbix file
 
-     Source dataset (CSV/XLSX)
+   Source dataset (CSV/XLSX)
 
-     Project documentation
+   Project documentation
 
-     Kickoff presentation
+   Kickoff presentation
 
-     Key Takeaways summary
+   Key Takeaways summary
 
 🚀 How to Use
 
